@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Section 18 From Stephen Grider's Udemy CourseGetting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
